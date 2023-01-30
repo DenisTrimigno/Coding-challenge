@@ -1,0 +1,81 @@
+
+body {
+     background-image: url(background.jpg);
+     background-size: 1900px ;
+     color: white;
+     background-position: top;
+     background-repeat: no-repeat;
+     font-family: 'Poppins', sans-serif;
+      }
+
+img {
+    width: 250px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+.title {
+    font-weight: 500;
+    color:#37DD01;
+    margin-top: -5px;
+    margin-bottom: 8px; }    
+
+header,.box-green {
+    text-align: center;  }
+
+div.container {
+    background-color: rgba(6, 7, 7, 0.5);
+    width: 1100px;
+    padding: 70px 100px 150px 100px ;
+    border-radius: 15px;
+    margin : 40px auto 80px auto;  }
+ 
+ 
+.monopattino {
+    padding-top: 40px;
+    line-height: 10px;  }
+
+.box-green {
+    margin-top: -5px;
+    padding: 12px;
+    background-color: #37DD01; }
+
+h2 {
+    display: inline; }
+
+#testo-charger { 
+    margin-bottom: 2px; }
+
+.arrow:after {
+        content: "\21A6";
+        color: rgb(246, 246, 246); }
+
+.charg-orange {
+    background-color: #F5B453 ;
+    height: 30px;
+    width: 350px;
+    border-radius: 6px;
+    margin-top: 8px; }
+
+.charg-green {
+    background-color: #2FC31E ;
+    height: 30px;
+    width: 550px;
+    border-radius: 6px;
+    margin-top: 8px; }
+
+.charg-red {
+    background-color: #BE4141 ;
+    height: 30px;
+    width: 150px;
+    border-radius: 6px;
+    margin-top: 8px;  }
+
+
+
+
+
+
+
+
+
